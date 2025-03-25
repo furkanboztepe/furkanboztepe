@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Furkan Boztepe
 
-## 🧑‍💻 About Me
-
-I'm a passionate full-stack developer with expertise in both frontend and backend technologies. I enjoy creating efficient, scalable applications and constantly expanding my skill set in this ever-evolving tech landscape.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-boztepe-62b215213/)
 
 **Software Developer | Technology Enthusiast | Continuous Learner**
+
+## 🧑‍💻 About Me
+
+I'm a passionate full-stack developer with expertise in both frontend and backend technologies. I enjoy creating efficient, scalable applications and constantly expanding my skill set in this ever-evolving tech landscape.
 
 ## 🛠️ Technology Stack
 
@@ -33,15 +33,20 @@ I'm a passionate full-stack developer with expertise in both frontend and backen
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white)
 
-### 🛠️ Other Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🔧 Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📈 GitHub Stats
 
