@@ -1,6 +1,6 @@
 # 👋 I'm Furkan Boztepe
 
-**Software Developer | Full-Stack Developer **
+** Software Developer | Full-Stack Developer **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-boztepe-62b215213/)
 
